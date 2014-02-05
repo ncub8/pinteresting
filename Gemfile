@@ -15,7 +15,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass'
 gem 'devise', '~> 3.1.0.rc2'
 gem 'paperclip', '~> 3.4.1'
-
+gem 'aws-sdk', '~> 1.16.1'
 
 group :development, :test do
 	gem 'sqlite3'
